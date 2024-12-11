@@ -1,0 +1,104 @@
+h1{ 
+    text-align: center;
+    font-size: 40px;
+}
+    
+h2{
+    font-size: 30px;
+    text-align: center;
+    
+}
+p{
+   font-size: 18px;
+   text-align: center;
+}
+ul{
+    font-size: 18px;
+    text-align: center;
+    list-style-position: inside;
+}
+.page-title{
+    background-image:url("images/colorful-nail-polishes-stockcake.jpg");
+    background-position-y:-200px;
+    height:400px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ #prices{
+    margin-left:100px;
+    margin-right:100px;
+    color: blueviolet;
+    font-size: large;
+    
+ }
+ #apointments{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: blueviolet;
+    font-size: large;
+ }
+ #services{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: blueviolet;
+    font-size: large;
+ }
+ .navigation-bar{
+    text-align: center;
+ }
+.page-title{
+    color:black;
+    font-size: 100px;
+ 
+}
+#Home-Page{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: blueviolet;
+    font-size: large;
+    
+}
+.Additonal{
+    color: aqua;
+
+}
+.Manicures{
+color: darkorchid;
+}
+.Pedicures{
+color: hotpink;
+}
+.Acrylic{
+color: royalblue;
+}
+.Services{
+    border-color:lightgreen;
+    border-style: double;
+    border-width: 20px;
+
+}
+table{
+    width:75%;
+    margin-left:12.5%;
+    border: double crimson;
+    background-color: lightgreen;
+}
+.yay{
+    color:crimson;
+    font-size:80px;}
+.Images img{
+    width:200px;
+    height:200px;
+}
+.Images{
+    margin-left:25%;
+    width: 50%;;
+}
+.Popular1{
+    color: deeppink;
+}
+.Popular2{
+    color: deeppink;
+}
+   
